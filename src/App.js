@@ -9,15 +9,15 @@ function App() {
 const [selectedcolor,setselectedcolor]=useState("black")
   
   
-  function handleRed() {
-    console.log("red")
-  }
-  function handleBlue() {
-    console.log("blue")
-  }
-  function handleGreen() {
-    console.log("green")
-  }
+  // function handleRed() {
+  //   console.log("red")
+  // }
+  // function handleBlue() {
+  //   console.log("blue")
+  // }
+  // function handleGreen() {
+  //   console.log("green")
+  // }
  const handleColor=(Color)=>{
   console.log(Color)
 
